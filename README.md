@@ -1,16 +1,22 @@
 # rolling_the_dice
 
-A new Flutter project.
+![Screenshot_1725432015](https://github.com/user-attachments/assets/f074ed49-460c-4b4f-9723-cbd542919fed)
+![Screenshot_1725432012](https://github.com/user-attachments/assets/3d7e7eed-84ae-4260-b3f4-2b8a765837f8)
+![Screenshot_1725432009](https://github.com/user-attachments/assets/1230ad80-cd42-41d2-ac6e-360ea21ad14e)
+![Screenshot_1725432006](https://github.com/user-attachments/assets/ef11ede1-24bd-4a7a-aad5-01e8965e1238)
+![Screenshot_1725432004](https://github.com/user-attachments/assets/095f1c36-ae78-4e24-8cf2-25fd49e9b9d1)
+![Screenshot_1725432001](https://github.com/user-attachments/assets/4ced741a-b50d-4159-b469-653bde1d6a95)
+![Screenshot_1725432050](https://github.com/user-attachments/assets/745d1ac6-3a88-4968-b26f-8c371ab6527c)
+![Screenshot_1725432048](https://github.com/user-attachments/assets/259b0b27-9286-4573-a022-23f54a8819ac)
+![Screenshot_1725432046](https://github.com/user-attachments/assets/94c4d88a-e3ea-4274-92ce-d5ba767d2166)
+![Screenshot_1725432043](https://github.com/user-attachments/assets/2f5600fc-9741-498e-afe3-5db5778a9029)
+![Screenshot_1725432040](https://github.com/user-attachments/assets/aa70f26f-155d-4958-8cab-2cac410d4103)
+![Screenshot_1725432038](https://github.com/user-attachments/assets/bca8404e-ad50-43e3-a32f-b1921c6146e8)
+![Screenshot_1725432035](https://github.com/user-attachments/assets/280a6a4a-5c93-4f05-a3b3-3baa2aa840ea)
+![Screenshot_1725432031](https://github.com/user-attachments/assets/96fe12c7-b84f-4dd4-98dd-6748000d0ad4)
+![Screenshot_1725432028](https://github.com/user-attachments/assets/f789bb05-f718-45dc-87f1-8815a5b9faad)
+![Screenshot_1725432026](https://github.com/user-attachments/assets/e5dc81be-9247-488d-b75e-d04063cb0ff8)
+![Screenshot_1725432024](https://github.com/user-attachments/assets/238379be-452f-42fc-b9f8-4c941a81d482)
+![Screenshot_1725432021](https://github.com/user-attachments/assets/982528e3-91a4-47ad-9592-cc09ede4d40c)
+![Screenshot_1725432018](https://github.com/user-attachments/assets/e4e7acd5-d2ad-4581-8f79-ac5c0747fa8a)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
